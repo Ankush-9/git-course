@@ -1,0 +1,3 @@
+Admin is Allowed to Add Or Delete Users
+Access For These Operations is Availabe for the Admin
+Thanks You
