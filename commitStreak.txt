@@ -6,3 +6,6 @@ Commit done on 6-1-26
 =======
 Commit for the date 6-1-26
 >>>>>>> feature1
+
+
+Change in commitStreak
