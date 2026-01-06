@@ -3,3 +3,6 @@ This is the updated statement
 Get user data
 Create an Avatar for the user!
 This is a change in the feature1 brnach
+
+Another close the connection command added!
+Manage Database!
